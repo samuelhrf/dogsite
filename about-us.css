@@ -1,0 +1,25 @@
+body{
+    background: url("Dog.jpg") no-repeat fixed;
+    background-size: 100% 100%;
+}
+  
+.logo, .navigation, .content, .footer{
+    margin-bottom: 5px;
+    padding: 15px 0;
+}
+
+.content{
+    background: whitesmoke;
+    border-radius: 5px;
+    opacity: 0.8;
+}
+
+h1{
+    text-align:center;
+    font-size: 90pt;
+}
+
+p{
+    text-align:center;
+    font-size:30pt;
+}

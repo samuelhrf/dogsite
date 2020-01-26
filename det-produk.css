@@ -1,0 +1,40 @@
+.produk {
+    width: 900px;
+    margin: auto;
+    background: none;
+    
+}
+.produk .img-box {
+    margin-bottom: 30px;
+}
+.img-box img {
+    width: 300px;
+    padding: 10px;
+    border-radius: 30px;
+    
+}
+
+.img-box a img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+.img-box img:hover {
+    opacity: 0.5;
+    position: relative;
+    transition: 0.5s;
+}
+.img-box p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 5px 0 0 10px;
+    text-align: center;
+    margin: 5px 0;
+}
+
+.img-box h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 5px 0 0 10px;
+    text-align: center;
+    margin: 5px 0;
+}
